@@ -1,7 +1,13 @@
+import java.util.Arrays;
+
 public class main{
     public static void main(String []args){
-        var hola ="hoamundo";
-        var h = hola.equals("asdaas") ? "nada" : "mundo";
-        System.out.println(h);
+       //CONCATENACIÓN
+        var saludo = "Hola";
+        var user= "Miguel";
+        System.out.println(saludo + " " + user);
+        System.out.println("Mi nombre es "+ user);
+        //short sout + TAB
+
     }
 }

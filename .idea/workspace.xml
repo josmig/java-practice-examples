@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f561105-d6d6-4147-8180-bb242c954b83" name="Default Changelist" comment="" />
+    <list default="true" id="3f561105-d6d6-4147-8180-bb242c954b83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/2-Variables/scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2-Variables/variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/3-TiposPrimitivos/Integers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-practica/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-practica/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2-Variables/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/2-Variables/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ajKsJMl0SS5EMbtkYXSXant4Xq" />
   <component name="ProjectViewState">
@@ -18,7 +28,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.Integers">
+    <configuration name="Integers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Integers" />
+      <module name="java-practica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="java-practica" />
@@ -33,8 +50,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner" />
+      <module name="java-practica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variables" />
+      <module name="java-practica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Integers" />
+        <item itemvalue="Application.scanner" />
+        <item itemvalue="Application.variables" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.saludo" />
       </list>
@@ -51,6 +85,9 @@
       <option name="presentableId" value="Default" />
       <updated>1587243771313</updated>
       <workItem from="1587243778941" duration="2764000" />
+      <workItem from="1587319652988" duration="188000" />
+      <workItem from="1587405590401" duration="2263000" />
+      <workItem from="1587420704739" duration="3221000" />
     </task>
     <servers />
   </component>
@@ -58,25 +95,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587247966902">
+    <state x="433" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587421766116">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587247966902" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587247966902">
+    <state x="433" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587421766116" />
+    <state width="1323" height="237" key="GridCell.Tab.0.bottom" timestamp="1587423335415">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587247966902" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587247966902">
+    <state width="1323" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587423335415" />
+    <state width="1323" height="237" key="GridCell.Tab.0.center" timestamp="1587423335415">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587247966902" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587247966902">
+    <state width="1323" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587423335415" />
+    <state width="1323" height="237" key="GridCell.Tab.0.left" timestamp="1587423335415">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587247966902" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587243790877">
+    <state width="1323" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587423335415" />
+    <state width="1323" height="237" key="GridCell.Tab.0.right" timestamp="1587423335415">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587243790877" />
+    <state width="1323" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587423335415" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587420713978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587420713978" />
   </component>
 </project>

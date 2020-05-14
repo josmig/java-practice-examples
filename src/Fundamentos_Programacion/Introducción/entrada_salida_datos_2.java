@@ -1,4 +1,4 @@
-package Fundamentos_Programacion;
+package Fundamentos_Programacion.Introducción;
 
 import java.util.Scanner;
 
@@ -10,8 +10,12 @@ public class entrada_salida_datos_2 {
         float numero;
         numero = scanner.nextFloat();
 
-        System.out.println("El numero es : " + numero);
+        System.out.println("Digite un caracter");
+        char caracter;
+        caracter = scanner.next().charAt(0);
 
+        System.out.println("El numero es : " + numero);
+        System.out.println("La cadena en la pocisíón es : " + caracter);
 
 
     }

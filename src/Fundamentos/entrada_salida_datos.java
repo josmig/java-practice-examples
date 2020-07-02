@@ -3,9 +3,8 @@ package Fundamentos;
 import java.util.Scanner;
 
 public class entrada_salida_datos {
-	private void psvm() {
-		// TODO Auto-generated method stub
-		System.out.println("Ingrese un numero para la obtención de datos");
+    public static void main(String[] args) {
+        System.out.println("Ingrese un numero para la obtenciÃ³n de datos");
         Scanner scanner = new Scanner(System.in);
         float numero;
         numero = scanner.nextFloat();
@@ -15,7 +14,8 @@ public class entrada_salida_datos {
         caracter = scanner.next().charAt(0);
 
         System.out.println("El numero es : " + numero);
-        System.out.println("La cadena en la pocisíón es : " + caracter);
+        System.out.println("La cadena en la pocisÃ­Ã³n es : " + caracter);
 
-	}
+    }
 }
+

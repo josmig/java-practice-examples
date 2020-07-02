@@ -1,12 +1,11 @@
 package Fundamentos;
 
-import javax.swing.JOptionPane;
+import javax.swing.*;
 
 public class JOPtionPane {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		String cadena;
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        String cadena;
         int entero;
         char letra;
         double decimal;
@@ -20,6 +19,6 @@ public class JOPtionPane {
         JOptionPane.showMessageDialog(null, "El numero entero es : " + entero);
         JOptionPane.showMessageDialog(null,"El caracter es : " + letra);
         JOptionPane.showMessageDialog(null,"El numero decimal es : " + decimal);
-	}
-
+    }
 }
+

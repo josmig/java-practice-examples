@@ -1,12 +1,10 @@
-package Ejercicios;
+package Fundamentos.Ejercicios;
 
 import java.util.Scanner;
 
 public class ejercicio2 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		  //Calcular el sueldo semana del empleado sabiendo sus horas semanales de trabajo y su ganancia por hora
+    public static void main(String[] args) {
+        //Calcular el sueldo semana del empleado sabiendo sus horas semanales de trabajo y su ganancia por hora
 
         System.out.println("Digite al empleado");
         String empleado;
@@ -24,7 +22,7 @@ public class ejercicio2 {
 
         salario_semanal =  horas_trabajo_semanal * salario_hora;
         System.out.println("El empleado ".concat(empleado) + " trabaja "
-                + horas_trabajo_semanal + " horas a la semana, con un sueldo  total de: " + " $"+salario_semanal );
-	}
-
+                + horas_trabajo_semanal + " horas a la semana, con un sueldo  total de: "
+                + " $"+salario_semanal );
+    }
 }

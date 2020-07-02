@@ -1,11 +1,10 @@
-package Ejercicios;
+package Fundamentos.Ejercicios;
 
 import java.util.Scanner;
 
 public class ejercicio4 {
-	private void psvm() {
-		// TODO Auto-generated method stub
-	    String mes;
+    public static void main(String[] args) {
+        String mes;
         String nombre;
         int salario = 1000 , comision_carrosvendidos;
         float valor = 5,costecarro;
@@ -20,7 +19,5 @@ public class ejercicio4 {
 
         var salario_total = salario + (comision_carrosvendidos * 150) + (0.05f*costecarro*comision_carrosvendidos);
         System.out.println(nombre.concat(" Gana un salario de ") + salario_total);
-
-
-	}
+    }
 }

@@ -1,9 +1,8 @@
-package Fundamentos_operadores;
+package Fundamentos.Operadores;
 
-public class operadores_decremento_incremento {
-	private void psvm() {
-		// TODO Auto-generated method stub
-		  /*int x = 5;
+public class operador_decremento {
+    public static void main(String[] args) {
+        	  /*int x = 5;
         x++;*/
 
         int x =5 ,y;
@@ -12,5 +11,5 @@ public class operadores_decremento_incremento {
         y= x--;
         System.out.println(y);
         System.out.println(x);
-	}
+    }
 }

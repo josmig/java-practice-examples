@@ -1,11 +1,9 @@
-package Ejercicios;
+package Fundamentos.Ejercicios;
 
 import java.util.Scanner;
 
 public class ejercicio1 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+    public static void main(String[] args) {
         //Hacer un programa que calcule e imprima las tres calificaciones
         System.out.println("Ingresa las calificaciones");
         Scanner s = new Scanner(System.in);
@@ -20,6 +18,4 @@ public class ejercicio1 {
         float suma = num1 + num2 + num3;
         System.out.println("\nEl resultado del calculo es : " + suma);
     }
-
 }
-

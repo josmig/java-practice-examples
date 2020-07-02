@@ -1,12 +1,10 @@
-package Ejercicios;
+package Fundamentos.Ejercicios;
 
 import java.util.Scanner;
 
 public class ejercicio3 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		   //Guillermno tiene N dolares . Luis la mitad de guillermo y juan la mitad delo que tienen Guillermo y luis
+    public static void main(String[] args) {
+        //Guillermno tiene N dolares . Luis la mitad de guillermo y juan la mitad delo que tienen Guillermo y luis
         // imprimir la cantidad de dinero que tienen entre los 3
         int guille,luis,juan;
 
@@ -15,15 +13,14 @@ public class ejercicio3 {
         guille= s.nextInt();
 
 
-         luis = guille / 2;
-         juan = (guille + luis) / 2;
+        luis = guille / 2;
+        juan = (guille + luis) / 2;
 
-         int total = guille + luis + juan;
+        int total = guille + luis + juan;
 
         System.out.println("Guillermo tiene: " + "$"+guille + ", Luis tiene: " + "$"+luis+ " Y Juan tiene: " +
                 "$"+juan);
 
         System.out.println("El dinero total entre los 3 es de : " +"$"+total);
-	}
-
+    }
 }

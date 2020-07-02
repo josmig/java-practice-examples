@@ -1,10 +1,8 @@
-package Fundamentos_operadores;
+package Fundamentos.Operadores;
 
-public class operado_math {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		   //Raiz cuadrada
+public class operador_math {
+    public static void main(String[] args) {
+        //Raiz cuadrada
         System.out.println("Metodo Math para sacar Raiz Cuadrada");
         int raiz =(int) Math.sqrt(9); //casting
         double raiz1 = Math.sqrt(39);
@@ -27,6 +25,7 @@ public class operado_math {
         System.out.println("Random");
         double numero = Math.random();
         System.out.println(numero*100);
-	}
+    }
 
 }
+

@@ -1,10 +1,6 @@
 package Fundamentos;
-
-public class hello_world {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Hola mundo");
-	}
-
+class hello_world{
+    public static void main(String[] args) {
+        System.out.println("Hola mundo");
+    }
 }

@@ -2,7 +2,7 @@ package Fundamentos.Ejercicios;
 
 import java.util.Scanner;
 
-public class ejercicio1 {
+public class ejercicio_1 {
     public static void main(String[] args) {
         //Hacer un programa que calcule e imprima las tres calificaciones
         System.out.println("Ingresa las calificaciones");

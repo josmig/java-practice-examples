@@ -2,7 +2,7 @@ package Fundamentos.Ejercicios;
 
 import java.util.Scanner;
 
-public class ejercicio4 {
+public class ejercicio_4 {
     public static void main(String[] args) {
         String mes;
         String nombre;

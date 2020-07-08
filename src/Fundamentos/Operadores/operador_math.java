@@ -26,6 +26,4 @@ public class operador_math {
         double numero = Math.random();
         System.out.println(numero*100);
     }
-
 }
-

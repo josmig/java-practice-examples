@@ -2,7 +2,7 @@ package Fundamentos.Ejercicios;
 
 import java.util.Scanner;
 
-public class ejercicio3 {
+public class ejercicio_3 {
     public static void main(String[] args) {
         //Guillermno tiene N dolares . Luis la mitad de guillermo y juan la mitad delo que tienen Guillermo y luis
         // imprimir la cantidad de dinero que tienen entre los 3

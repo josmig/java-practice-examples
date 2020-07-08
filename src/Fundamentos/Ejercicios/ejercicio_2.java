@@ -2,7 +2,7 @@ package Fundamentos.Ejercicios;
 
 import java.util.Scanner;
 
-public class ejercicio2 {
+public class ejercicio_2 {
     public static void main(String[] args) {
         //Calcular el sueldo semana del empleado sabiendo sus horas semanales de trabajo y su ganancia por hora
 

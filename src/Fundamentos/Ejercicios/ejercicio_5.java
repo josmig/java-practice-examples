@@ -2,7 +2,7 @@ package Fundamentos.Ejercicios;
 
 import java.util.Scanner;
 
-public class ejercicio5 {
+public class ejercicio_5 {
     public static void main(String[] args) {
         float participacion , exam1 , exam2 , finalExa , total;
 

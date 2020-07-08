@@ -2,9 +2,9 @@ package Fundamentos;
 
 import javax.swing.*;
 
-public class JOPtionPane {
+public class interfaz_grafica {
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+
         String cadena;
         int entero;
         char letra;
@@ -21,4 +21,3 @@ public class JOPtionPane {
         JOptionPane.showMessageDialog(null,"El numero decimal es : " + decimal);
     }
 }
-

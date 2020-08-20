@@ -9,6 +9,7 @@ public class condicional_switch {
         switch (dato){
             case 1:
                 JOptionPane.showMessageDialog(null,"Es el numero 1");
+//el break nos sirve para salir del swith en caso ya se haya ejecutado la condicion porque si no pasara al siguiente
                 break;
             case 2:
                 JOptionPane.showMessageDialog(null,"Es el numero 2");

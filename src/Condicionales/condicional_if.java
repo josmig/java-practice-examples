@@ -1,6 +1,4 @@
-package Condicionales;
-
-import jdk.jshell.Diag;
+package condicionales;
 
 import javax.swing.*;
 

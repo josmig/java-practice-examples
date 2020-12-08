@@ -7,6 +7,8 @@ public class ejercicio_fecha_correcta {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		
+		
 		int dia , mes ,año;
 		
 		dia = Integer.parseInt(JOptionPane.showInputDialog("Ingrese el dia"));
@@ -23,5 +25,6 @@ public class ejercicio_fecha_correcta {
 			}
 		}
 	}
-
 }
+
+
